@@ -1,0 +1,314 @@
+header {
+    display: inline;
+    text-align: center;
+}
+
+Nav img {
+
+    padding-right: 400px;
+
+    padding-left: 4px;
+}
+
+Nav a {
+    padding-left: 5px;
+}
+
+body { 
+    font-family: "Work Sans", sans-serif ;
+     font-weight: 400px;  
+     padding-right: 00px;
+    padding-left: 5px;
+}
+p{
+    font-family: "Roboto", sans-serif ;
+}
+section { 
+    text-align: center;
+}
+
+.Mas {
+    font-size: 30px;
+    text-transform: none;
+    color: #00B39B;
+    text-align: center;
+}
+
+.Mas p {
+    font-family: "Roboto", sans-serif ;
+    text-align: center;
+}
+.section0{     
+    display: flex;
+    
+}
+ 
+.section1 {
+    margin-top: 12px;
+    text-align:justify; 
+    margin-left: 220px;
+}
+
+.section2 { 
+    margin-top: 12px;
+    text-align:justify; 
+    margin-left: 22px;
+    margin-right: 222px;
+}
+
+.div0 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex; 
+    align-items: center;
+    font-family: "Work Sans", sans-serif ;
+}
+.div0 h1 {
+    text-align: left;
+    margin-top: 3px;
+    padding-left:19px;
+    font-size: 20px;
+}
+.div0 p { 
+
+    margin-top: -5px;
+    padding-left:19px;
+    padding-right:20px; 
+    padding-bottom: 20px; 
+}
+.div0 select {
+    text-align: left;
+    margin-top: 70px;  
+    margin-left:22px;
+}
+.div1 {
+    background-color: #00CCB1;
+    border-radius: 12px;
+    text-transform: capitalize;
+    text-decoration: solid;
+    width: 350px;
+    height: 310px;
+    font-family: "Work Sans", sans-serif ;
+    color: white;
+    margin-left: 222px;
+}
+.icon-patients {
+    size: 16px;
+    text-align: left;
+    margin-top: -19px;
+    padding-left:19px;
+}
+
+.div2 {
+    background-color: #407FD2;
+    border-radius: 12px;
+    margin-left: 25px;
+    width: 350px;
+    height: 310px;
+    font-family: "Work Sans", sans-serif ;
+    color: white;
+}
+
+.div3 {
+    background-color: #243245;
+    margin-left: 25px;  
+    margin-right: 222px;
+    border-radius: 12px;
+    width: 350px;
+    height: 310px;
+    font-family: "Work Sans", sans-serif ;
+    color: white;
+}
+
+#icon-patients {
+    padding-top: 13px;
+    padding-left: 19px;
+}
+
+.SEC {
+    display: flex; 
+   margin-left: 220px;
+   margin-right: 220px;
+}
+.SEC,a {
+    
+    fill:  d; 
+    font-size: 15px;
+}
+
+.class1 {
+    margin-top: 19px;
+    text-align: start;
+    color: #00B39B;
+    margin-right: 80px;
+}
+
+.class2 {
+    margin-top: -12px;
+    color: rgba(0, 255, 247, 0.489);
+}
+.class2,.class3,.class4,.class5 { 
+    
+    margin-top: -12px; 
+    margin-right: 33px;
+}
+.class2 img { 
+    margin-bottom: 10px;
+}
+
+.class3 { 
+    color: rgba(255, 225, 0, 0.489);
+}
+
+.class3 img {
+    margin-bottom: 10px;
+}
+
+.class4 { 
+    color: rgba(162, 0, 255, 0.489);
+}
+
+.class4 img {
+    margin-bottom: 10px;
+}
+
+.class5 {
+    color: rgba(219, 139, 48, 0.489);
+}
+
+.class5 a {
+    margin: 15px;
+}
+
+.class5 img {
+    margin-bottom: 10px;
+}
+
+.box {
+    background-color:  #d7f6f6;
+    width: 100%;
+    position: relative;
+    height: 100%;
+    color: #00B39B;
+    font-family: "Work Sans", sans-serif ;
+    display: flex;
+}
+
+.bleue1 {
+    margin-top: 100px;
+    margin-right: 122px;
+    margin-left: 122px;
+}
+.bleue1, img{
+    margin-top: 40px;
+}
+
+.bleue2 {
+    display: flex; 
+}
+
+.jaune1 {
+    text-align: right;
+    display: grid;
+}
+
+#all {
+    float: right;  
+    margin-right: 600px; 
+    margin-left: 180px;   
+
+}
+
+#dov {
+    float: left;
+    border-radius: 5px;
+    background-color:  #FFFFFF;
+    width: 250px;
+    height: 270px;
+    margin-top: 50px;
+    margin-right: 10px;
+    margin-bottom: 75px;
+    text-align: center;
+    padding-bottom:12px ;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#dov,#dov2,#dov3,#dov4, img{
+    text-align: center;
+    margin-top: 80px; 
+    
+}
+#dov,#dov2,#dov3,#dov4 h2 p{
+    text-align: center;
+    margin-top: 80px;
+    
+}
+
+#dov2 {
+    float: left;
+    border-radius: 5px;
+    background-color:  #FFFFFF;
+    width: 250px;
+    height: 270px;
+    margin-bottom: 0%;
+    margin-top: -50px;
+    margin-right: 10px;
+    padding-bottom:12px ;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#dov3 {
+    float: right;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    width: 250px;
+    height: 270px;
+    margin-top: 20px;
+    margin-right: 10px;
+    padding-bottom:12px ;
+    padding-left: 15px;
+    padding-right: 15px; 
+}
+
+#dov4 {
+    float: right;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    width: 250px;
+    height: 270px;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding-bottom:12px ;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.box2{ 
+    padding-top: 50px;
+    text-align: center;
+} 
+#pays{
+    display: flex;
+    margin-left: 220px;
+    margin-right: 420px;
+
+}
+.pa{
+     
+    border-radius: 10px; 
+    width: 400px; 
+    margin-left: 10px;
+    padding-bottom:5px ;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.pay{ 
+    border-radius: 10px;
+    width: 400px; 
+    margin-top: 10px;
+    margin-left: 0px;  
+
+}
+.span0{
+    position: relative;
+}
